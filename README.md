@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm MrPee 👋</h1>
-<p align="center">not a dev... but I ship 😎 — student @ โรงเรียนแก่นนครวิทยาลัย (KKW)</p>
+<p align="center">not a dev... but I ship 😎 — student @ โรงเรียนขอนเเก่นวิทยายน (KKW)</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mrpee-likeu2&style=flat-square&color=brightgreen" alt="profile views"/>
