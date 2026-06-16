@@ -18,6 +18,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrpee-likeu2&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrpee-likeu2&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
+</p>
+
 ---
 
 ## 🛠️ My Skills
